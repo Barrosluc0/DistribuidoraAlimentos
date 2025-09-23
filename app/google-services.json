@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430123343273",
+    "project_id": "distribuidoraalimentos-899e7",
+    "storage_bucket": "distribuidoraalimentos-899e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430123343273:android:fcb22f6f8a5d87ede578b8",
+        "android_client_info": {
+          "package_name": "cl.distribuidora.alimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJGYI1dZgDVC70f7_JRax0kkQ04zeODY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
