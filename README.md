@@ -1,13 +1,15 @@
 # App Distribuidora de Alimentos
 
 ## Descripción
-Aplicación Android para cálculo de costos de despacho con autenticación Firebase, desarrollada como parte de la actividad sumativa de la Semana 6.
+Aplicación Android para cálculo de costos de despacho con autenticación Firebase, desarrollada como parte de la actividad sumativa de la Semana 6 y el contenido canvas y prototipo solicitado en la semana 7.
 
 ## Funcionalidades
 - ✅ Login con Firebase Authentication
 - ✅ Cálculo automático de costo de despacho según reglas de negocio
 - ✅ Registro de ubicación GPS en Firebase Realtime Database
 - ✅ Alerta por temperatura de cadena de frío
+- ✅ Modelo Canvas de negocio completo
+- ✅ Prototipo no funcional con 4 pantallas
 
 ## Historias de Usuario Implementadas
 | HU | Descripción | Estado |
@@ -17,6 +19,8 @@ Aplicación Android para cálculo de costos de despacho con autenticación Fireb
 | HU3 | Cálculo de costo de despacho | ✅ Completada |
 | HU4 | Monitoreo de ubicación GPS | ✅ Completada |
 | HU5 | Sistema de alerta por temperatura | ✅ Completada |
+| HU6 | Desarrollo de modelo Canvas con 9 módulos | ✅ Completada |
+| HU7 | Diseño de prototipo no funcional con 4 pantallas | ✅ Completada |
 
 ## 🔐 Credenciales de Prueba
 - **Email:** correodeprueba@gmail.com
